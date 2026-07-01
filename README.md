@@ -12,10 +12,16 @@ Pytest suite in [`task1/`](task1/). See [`task1/README.md`](task1/README.md). La
 
 Layered rubric evaluator in [`task2/`](task2/). See [`task2/README.md`](task2/README.md).
 
+
+## Strategy documents
+
+See [`docs/README.md`](docs/README.md) for links to the Task 1 and Task 2 strategy write-ups.
+
 ## Project structure
 
 ```
 .
 ├── task1/    # GET /movies pytest suite
-└── task2/    # LLM summary evaluator
+├── task2/    # LLM summary evaluator
+└── docs/     # Strategy document links
 ```
